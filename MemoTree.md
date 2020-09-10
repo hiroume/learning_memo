@@ -21,4 +21,12 @@ https://qiita.com/kamorits/items/6f342da395ad57468ae3
   
 - .gitignore設定したい
 
-- 
+- 例外処理について学習したよ
+  - [Rubyで独自例外を定義するときはStandardErrorを継承する](https://blog.toshimaru.net/ruby-standard-error/)
+  - [【Ruby】カスタム例外を作成する簡単３ステップ](https://qiita.com/k-penguin-sato/items/3d8ce4e71520da2d68c4)
+
+- Faradayを利用したHTTPリクエストについて学んだよ
+  - [Ruby の HTTP Client「Faraday」を使った場合の例外の扱いとリトライ処理をどうするか考えてみた](https://qiita.com/dany1468/items/2d5e18dee84225ede77d)
+
+- Grape + FaradayでサクサクAPI開発
+  - Faradayの例外処理をGrapeAPIにつなぎ込む方法
