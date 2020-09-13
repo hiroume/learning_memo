@@ -18,6 +18,8 @@ https://qiita.com/kamorits/items/6f342da395ad57468ae3
     
 - RailsにwebpackeでBootstrapを使いたい
   - [RailsでBootstrapとFont-AwesomeはWebpackerで今時っぽく使おう](https://qiita.com/rhistoba/items/f724dae231d7e28bf477)
+  - [Webpacker使うなら最低限これだけは知っておいてほしいこと](https://qiita.com/chimame/items/8d3d6f4afea675cffa7d)
+  
   
 - .gitignore設定したい
 
